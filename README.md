@@ -1,1 +1,1 @@
-# RFM95-LoRa-Shield
+# RFM95 LoRa Shield V0.2
