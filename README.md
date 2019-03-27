@@ -5,7 +5,12 @@
 // Pin mapping: Promini - repin
 
 const lmic_pinmap lmic_pins = {
+
   .nss = 10,
+  
   .rxtx = LMIC_UNUSED_PIN,
+  
   .rst = 9,
+  
   .dio = {2, 6, 7},
+  
