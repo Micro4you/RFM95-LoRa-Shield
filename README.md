@@ -14,5 +14,5 @@ const lmic_pinmap lmic_pins = {
   
   .dio = {2, 6, 7},
   
-  AS923-upper (923.2-924.6MHz) LMIC-arduino code https://github.com/promwungkwa/LMIC-Arduino-AS923-upper
+ ** AS923-upper (923.2-924.6MHz) LMIC-arduino code https://github.com/promwungkwa/LMIC-Arduino-AS923-upper
   
